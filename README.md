@@ -7,15 +7,17 @@ This project contains datasets, analysis, and visualizations derived from web sc
 ## Directory Structure
 
 - **datasets/**: 
-  - Contains raw datasets:
+  - raw/:
     - **manufacturers**: Raw data from manufacturers.
     - **suppliers**: Raw data from suppliers.
     - **bodywork_parts**: Raw data from bodywork parts.
-  - The raw files have been collected through web scraping.
+    Note: The raw files have been collected through web scraping.
 
-- **processed/**: 
-  - Contains datasets after preprocessing. 
-  - These files have undergone data cleaning and transformation for further analysis.
+  - processed/:
+    - **manufacturers**: Processed data from manufacturers.
+    - **suppliers**: Processed data from suppliers.
+    - **bodywork_parts**: Processed data from bodywork parts.
+    Note: Contains datasets after preprocessing.These files have undergone data cleaning and transformation for further analysis.
 
 - **notebooks/**: 
   - Includes Jupyter notebooks for various analyses:
