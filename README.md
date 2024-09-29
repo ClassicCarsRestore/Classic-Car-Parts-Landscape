@@ -1,2 +1,4 @@
 # Classic-Car-Parts-Landscape
-A Geospatial Analysis of Spare Parts Availability, Cost and Environment Impact in Classic Car Restoration
+Striking Authenticity with Eco-friendly Practices: Analyzing the International Distribution and Environmental Impact of Parts Suppliers in Classic Car Restoration
+
+
