@@ -22,7 +22,7 @@ This project contains datasets, analysis, and visualizations derived from web sc
     Note: Contains datasets after preprocessing.These files have undergone data cleaning and transformation for further analysis.
 
 - **notebooks/**: 
-  - Includes Jupyter notebooks for various analyses:
+  - Includes Jupyter notebooks for various analyses in Python language:
     - **(2) Data Preprocessing**: Preprocessing code for the datasets.
     - **(3) Descriptive Analysis**: Code for performing descriptive analysis on the datasets.
     - **(4) Clustering Modeling**: Code for clustering.
