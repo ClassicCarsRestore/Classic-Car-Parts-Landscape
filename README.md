@@ -36,6 +36,7 @@ This project contains datasets, analysis, and visualizations derived from web sc
 2. Run the notebook for data preprocessing (2) on the downloaded dataset.
 3. After preprocessing, run the notebook for descriptive analysis (3).
 4. Finally, run the clustering modeling notebook (4) to generate clustering results.
+   
 Note: If you only want to view the generated plots, you can directly access the `plots/` directory.
 
 ### Requirements
