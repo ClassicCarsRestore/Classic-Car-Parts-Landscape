@@ -1,5 +1,5 @@
 # Classic-Car-Parts-Landscape
-Striking Authenticity with Eco-friendly Practices: Analyzing the International Distribution and Environmental Impact of Parts Suppliers in Classic Car Restoration
+Classic car spare parts for restoration: International supply chain and environmental impact
 
 ## Overview
 This project contains datasets, analysis, and visualizations derived from web scraping manufacturers, suppliers, and bodywork parts data from their respective websites. 
